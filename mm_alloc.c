@@ -1,17 +1,4 @@
-/* Assignment 5
- * Operating Systems
- * Kinneret College on the Sea of Galilee
- * Semester 1 5781
- *
- * Submitted by: 
- * 
- * Fadi Zaher - 205792526
- * Niv Sahar - 205808272
- * 
- * mm_alloc.c
- *
- * Stub implementations of the mm_* routines.
- */
+
 
 #include "mm_alloc.h"
 #include <stdlib.h>
